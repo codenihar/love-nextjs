@@ -1,4 +1,4 @@
-Follow these steps to install and run the project:
+# Follow these steps to install and run the project:
 
 ### 1. Clone the Repository
 
